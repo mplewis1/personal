@@ -17,3 +17,5 @@ GitHub is one vector through which a non-technical person like myself can be int
 <a href="https://eureka-research.github.io">Eureka: Human-Level Reward Design via Coding Large Language Models</a>
 
 <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents: An Open Platform for Language Agents in the Wild</a>
+
+![Shoes](/images/github.png)
