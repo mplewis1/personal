@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github is My Favorite Social Platform"
+title:  "GitHub is My Favorite Social Platform"
 date:   2023-11-01
 categories: blog
 ---
@@ -18,4 +18,4 @@ GitHub is one vector through which a non-technical person like myself can be int
 
 <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents: An Open Platform for Language Agents in the Wild</a>
 
-![Shoes](/images/github.png)
+![GitHub](/images/github.png)
