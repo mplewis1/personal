@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shoes on the Table"
-date:   2023-10-04
+date:   2023-10-12
 categories: blog
 ---
 Look at this picture and find what’s out of place. Think about signaling to someone that an item is not where it should be. Through sight, we immediately notice that shoes don’t belong on the table. Entering a friend’s apartment and seeing this, we’d point and question their placement. Instinctively, we’d likely move them to the floor. It’s natural for us to grasp a situation’s context, convey our intentions, and take action.
