@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shifting the Overton Window of Biohacking"
-date:   2023-11-28
+date:   2024-03-05
 categories: blog
 ---
 
