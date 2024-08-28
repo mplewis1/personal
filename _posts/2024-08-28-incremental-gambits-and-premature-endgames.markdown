@@ -17,7 +17,7 @@ The status quo assumes that the transformer architecture will win. Companies up 
 
 I argue that we've prematurely entered the endgame of the current AI wave, crowning a winning technology before fully exploring alternatives. This piece will examine the limitations of our current approach and propose alternatives that may lead us closer to achieving human-level general intelligence. As it stands, we risk a stalemate - trapped in a local optimum unable to reach AGI.
 
-![Chess](Chess.png)
+![Chess](/images/Chess.png)
 
 ### The Old King
 
