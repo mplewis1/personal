@@ -111,7 +111,6 @@ Luckily, we're finally beginning to see NSAI approaches hit the mainstream. In J
 
 <br />
 ---
-<br />
 
 We've reached a juncture in the AI wave, and it's clear that the endgame has been called prematurely. Pieces have been sacrificed for perceived advantages as the industry has gone all-in on transformers and continues to blitzscale to beat the competition.
 
@@ -123,7 +122,6 @@ The most successful chess players can adapt their strategy as the game evolves a
 
 <br />
 ---
-<br />
 
 ### Additional Resources
 
@@ -137,7 +135,6 @@ There is so much more I could write on this topic. Check out the links throughou
 
 <br />
 ---
-<br />
 
 ### Acknowledgments
 
