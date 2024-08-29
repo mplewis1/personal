@@ -94,8 +94,10 @@ The team goes on to share that the actual integration can then be achieved throu
 1. Knowledge compression for neural integration involves techniques like knowledge graph embedding and logic-based compression.  
 2. Neural pattern lifting for symbolic integration includes methods like decoupled and intertwined integration.
 
+<div align="center">
 ![New Hope](/images/new-hope.png)
 [*Neurosymbolic AI - Why, What, and How (Sheth et al.)*](https://arxiv.org/abs/2305.00813)
+</div>
 
 When compared to mainstream LLM architectures, NSAI offers manifold [advantages](https://emeritus.org/in/learn/neurosymbolic-ai/). First is its enhanced reasoning and generalization capabilities. By incorporating oft-dismissed symbolic reasoning, these systems can generalize from fewer examples and apply knowledge more flexibly to new situations, precisely the kind of things ARC is testing for and where transformers fall short.
 
@@ -109,7 +111,9 @@ Looking forward, the potential applications of NSAI are vast, and integrating ne
 
 Luckily, we're finally beginning to see NSAI approaches hit the mainstream. In January, DeepMind released [AlphaGeometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), which can solve complex geometry problems at an International Mathematical Olympic Gold Medalist level. Its language model guides a symbolic deduction method towards the possible range of solutions. More recently, a company called [Symbolica](https://www.symbolica.ai/) [launched](https://venturebeat.com/ai/move-over-deep-learning-symbolicas-structured-approach-could-transform-ai/) with $33M in funding. Symbolica is attempting to create a reasoning model via an approach rooted in [category theory](https://arxiv.org/abs/2402.15332), which relates mathematical structures to one another. If you know anybody else making the emergence and adoption of NSAI their mission, please reach out.
 
+
 ---
+
 
 We've reached a juncture in the AI wave, and it's clear that the endgame has been called prematurely. Pieces have been sacrificed for perceived advantages as the industry has gone all-in on transformers and continues to blitzscale to beat the competition.
 
@@ -119,7 +123,9 @@ Neurosymbolic AI does offer hope. By combining neural networks' pattern recognit
 
 The most successful chess players can adapt their strategy as the game evolves and see beyond the immediate tactics to the larger strategic picture. The same is true in AI research and AI itself. We must be willing to reconsider our opening moves, develop new strategies for the middlegame, and redefine what victory looks like in the endgame.
 
+
 ---
+
 
 ### Additional Resources
 
@@ -131,7 +137,9 @@ There is so much more I could write on this topic. Check out the links throughou
 - [Neuro-symbolic approaches in artificial intelligence (Hitzler et al.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166567/)  
 - [Neurosymbolic Programming (Chaudhuri et al.)](https://www.cs.utexas.edu/\~swarat/pubs/PGL-049-Plain.pdf)
 
+
 ---
+
 
 ### Acknowledgments
 
