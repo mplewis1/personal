@@ -70,7 +70,7 @@ On [Invest Like the Best](https://open.spotify.com/episode/05Fx7yNSEA148kHr1znbr
 
 The premature rush to the AI endgame poses significant risks. We are massively over-indexing on an approach that shows diminishing returns, potentially at the cost of exploring more innovative and efficient paths to advanced reasoning. I am not saying that AI on its current trajectory isn't insanely valuable, nor am I saying that the next lift provided by new chips will accelerate progress. I will even concede that if transformers were not the architecture of the future, then this isn't all for naught as data centers can be repurposed. But this next shift will be similar to those of yesteryear. We may be over our skis. This cannot be the path to AGI.
 
-### A New Hope
+### A New Queen
 
 Transformers excel at recognizing and reproducing patterns they've memorized from training data but struggle with tasks that require genuine reasoning. More training data does lead to better results on memorization-based benchmarks but offers only the illusion of general intelligence. Given the black box, it's unclear whether more data improves reasoning or simply offers more potential patterns to be uncovered across contexts.
 
