@@ -5,6 +5,27 @@ date:   2024-08-29
 categories: blog
 ---
 
+<head>
+    <!-- Existing meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="Incremental Gambits and Premature Endgames">
+    <meta property="og:description" content="A case for neurosymbolism and why we've gone too far">
+    <meta property="og:image" content="https://matthewlewis.xyz/images/Chess.png">
+    <meta property="og:url" content="https://matthewlewis.xyz/blog/2024/08/29/incremental-gambits-and-premature-endgames.html">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Matthew Lewis">
+    
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@mp_lew">
+    <meta name="twitter:title" content="Incremental Gambits and Premature Endgames">
+    <meta name="twitter:description" content="A case for neurosymbolism and why we've gone too far">
+    <meta name="twitter:image" content="https://matthewlewis.xyz/images/Chess.png">
+</head>
+
 In chess, there are three phases to the game, all with distinct strategies: the opening, the middlegame, and the endgame. In the opening, the first 15 or so moves of the game, the goal is to deploy your pieces from their starting positions and control the center of the board. The middlegame involves back-and-forth offense and defense as players target each other's pieces via tactics and attempt to checkmate the king. The endgame begins when most pieces have been captured without a checkmate. Only a few pieces remain, and a slower, mathematical trudge begins to checkmate the king and declare victory.
 
 Plenty of cliche parallels exist between chess and business, but nowhere do I find them more relevant than in the current AI race. The progression has been:
@@ -80,7 +101,7 @@ While we don't know the methods of those atop the current leaderboard, I want to
 
 A great comparison is that of Daniel Kahneman's ["Thinking Fast and Slow,"](https://kahneman.scholar.princeton.edu/publications) where neural nets represent system 1 thinking and symbolic AI system 2\. From [DeepMind](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/):
 
-Because language models excel at identifying general patterns and relationships in data, they can quickly predict potentially helpful constructs but cannot reason rigorously or explain their decisions. Symbolic deduction engines, on the other hand, are based on formal logic and use clear rules to arrive at conclusions. They are rational and explainable but can be slow and inflexible — especially when dealing with complex problems independently.
+> Because language models excel at identifying general patterns and relationships in data, they can quickly predict potentially helpful constructs but cannot reason rigorously or explain their decisions. Symbolic deduction engines, on the other hand, are based on formal logic and use clear rules to arrive at conclusions. They are rational and explainable but can be slow and inflexible — especially when dealing with complex problems independently.
 
 Subsymbolic (neural nets) and symbolic systems [complement](https://www.semantic-web-journal.net/system/files/swj2291.pdf) one another. While the former is robust against noise and excels at pattern recognition, symbolic systems thrive at tasks involving structured data and explicit reasoning. The challenge is reconciling the fundamentally different ways these systems represent information.
 
@@ -97,15 +118,15 @@ The team goes on to share that the actual integration can then be achieved throu
 ![New Hope](/images/new-hope.png)
 [*Neurosymbolic AI - Why, What, and How (Sheth et al.)*](https://arxiv.org/abs/2305.00813)
 
-When compared to mainstream LLM architectures, NSAI offers manifold [advantages](https://emeritus.org/in/learn/neurosymbolic-ai/). First is its enhanced reasoning and generalization capabilities. By incorporating oft-dismissed symbolic reasoning, these systems can generalize from fewer examples and apply knowledge more flexibly to new situations, precisely the kind of things ARC is testing for and where transformers fall short.
+When compared to mainstream LLM architectures, NSAI offers manifold [advantages](https://emeritus.org/in/learn/neurosymbolic-ai/). First is its [enhanced reasoning](https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1610\&context=faculty-research-papers) and generalization capabilities. By incorporating oft-dismissed symbolic reasoning, these systems can generalize from fewer examples and apply knowledge more flexibly to new situations, precisely the kind of things ARC is testing for and where transformers fall short.
 
 As a result, NSAI systems may require less training data to achieve higher performance, addressing one of the transformer’s fundamental limitations. This could democratize development, making it accessible to domains where large datasets are scarce or impossible to obtain. (Check out [DisTrO](https://github.com/NousResearch/DisTrO/blob/main/A\_Preliminary\_Report\_on\_DisTrO.pdf) from Nous Research for a snapshot of the future of more efficient LLM training.)
 
-Unlike transformers' black boxes, NSAI outputs are more transparent, offering a sort of audit trail for each step in the process. This transparency is critical for applications in nuanced fields where understanding the "why" is as important as the decision itself.
+Unlike transformers' black boxes, NSAI outputs are more transparent, offering a sort of audit trail for each step in the process. This transparency is critical for applications in nuanced fields where understanding the "why" is as important as the decision itself. This also helps better validate and corroborate outputs, reducing the likelihood of [hallucination](https://tdwi.org/Articles/2024/04/08/ADV-ALL-Can-Neuro-Symbolic-AI-Solve-AI-Weaknesses.aspx).
 
-Finally, by incorporating neural nets into the winning architecture, we can lean on the progress made over the past few years and build on top of what we have already. Human-level intelligence will use neural nets – just not rely on them in their entirety.
+Finally, by incorporating neural nets into the winning architecture, we can build on the progress made over the past few years and build on top of what we already have. Human-level intelligence will use neural nets — just not rely on them entirely.
 
-Looking forward, the potential applications of NSAI are vast, and integrating neural and symbolic approaches promises to compensate for the lost time and money (again, for some, not all) caused by transformers on their own. However, realizing this potential will require sustained research effort and funding.
+Looking forward, the potential applications of NSAI are vast, and integrating neural and symbolic approaches promises to compensate for the lost time and money (again, for some, not all) caused by transformers alone. However, realizing this potential will require sustained research effort and funding.
 
 Luckily, we're finally beginning to see NSAI approaches hit the mainstream. In January, DeepMind released [AlphaGeometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), which can solve complex geometry problems at an International Mathematical Olympic Gold Medalist level. Its language model guides a symbolic deduction method towards the possible range of solutions. More recently, a company called [Symbolica](https://www.symbolica.ai/) [launched](https://venturebeat.com/ai/move-over-deep-learning-symbolicas-structured-approach-could-transform-ai/) with $33M in funding. Symbolica is attempting to create a reasoning model via an approach rooted in [category theory](https://arxiv.org/abs/2402.15332), which relates mathematical structures to one another. If you know anybody else making the emergence and adoption of NSAI their mission, please reach out.
 
@@ -127,8 +148,8 @@ The most successful chess players can adapt their strategy as the game evolves a
 
 There is so much more I could write on this topic. Check out the links throughout my write-up for frequently used resources. Below is a non-exhaustive list of additional papers that can help with technical context.
 
+- [A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM (Chandio et al.)](https://arxiv.org/abs/2407.06889)
 - [Automated programming, symbolic computation, machine learning: my personal view (Buchberger)](https://link.springer.com/article/10.1007/s10472-023-09894-7)  
-- [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning (Ellis et al.)](https://arxiv.org/abs/2006.08381)  
 - [Natural Language Processing and Neurosymbolic AI: The Role of Neural Networks with Knowledge-Guided Symbolic Approaches (Barnes, Hutson)](https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1610\&context=faculty-research-papers)  
 - [Neuro-Symbolic AI: An Emerging Class of AI Workloads and their Characterization (Susskind et al)](https://arxiv.org/abs/2109.06133)  
 - [Neuro-symbolic approaches in artificial intelligence (Hitzler et al.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166567/)  
