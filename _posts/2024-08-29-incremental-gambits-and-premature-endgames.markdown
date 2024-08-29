@@ -82,7 +82,7 @@ A great comparison is that of Daniel Kahneman's ["Thinking Fast and Slow,"](http
 
 Because language models excel at identifying general patterns and relationships in data, they can quickly predict potentially helpful constructs but cannot reason rigorously or explain their decisions. Symbolic deduction engines, on the other hand, are based on formal logic and use clear rules to arrive at conclusions. They are rational and explainable but can be slow and inflexible — especially when dealing with complex problems independently.
 
-Neural nets and symbolic systems [complement](https://www.semantic-web-journal.net/system/files/swj2291.pdf) one another. While the former is robust against noise and excels at pattern recognition, symbolic systems thrive at tasks involving structured data and explicit reasoning. The challenge is reconciling the fundamentally different ways these systems represent information.
+Subsymbolic (neural nets) and symbolic systems [complement](https://www.semantic-web-journal.net/system/files/swj2291.pdf) one another. While the former is robust against noise and excels at pattern recognition, symbolic systems thrive at tasks involving structured data and explicit reasoning. The challenge is reconciling the fundamentally different ways these systems represent information.
 
 NSAI attempts to address this challenge by creating an integration that can leverage the strengths of both systems. Per [Sheth et al.](https://arxiv.org/abs/2305.00813), the integration of these can be broadly categorized across two main components:
 
@@ -127,6 +127,7 @@ The most successful chess players can adapt their strategy as the game evolves a
 
 There is so much more I could write on this topic. Check out the links throughout my write-up for frequently used resources. Below is a non-exhaustive list of additional papers that can help with technical context.
 
+- [Automated programming, symbolic computation, machine learning: my personal view (Buchberger)](https://link.springer.com/article/10.1007/s10472-023-09894-7)  
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning (Ellis et al.)](https://arxiv.org/abs/2006.08381)  
 - [Natural Language Processing and Neurosymbolic AI: The Role of Neural Networks with Knowledge-Guided Symbolic Approaches (Barnes, Hutson)](https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1610\&context=faculty-research-papers)  
 - [Neuro-Symbolic AI: An Emerging Class of AI Workloads and their Characterization (Susskind et al)](https://arxiv.org/abs/2109.06133)  
