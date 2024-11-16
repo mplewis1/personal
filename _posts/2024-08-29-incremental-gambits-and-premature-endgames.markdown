@@ -154,6 +154,7 @@ There is so much more I could write on this topic. Check out the links throughou
 - [Neuro-Symbolic AI: An Emerging Class of AI Workloads and their Characterization (Susskind et al)](https://arxiv.org/abs/2109.06133)  
 - [Neuro-symbolic approaches in artificial intelligence (Hitzler et al.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166567/)  
 - [Neurosymbolic Programming (Chaudhuri et al.)](https://www.cs.utexas.edu/\~swarat/pubs/PGL-049-Plain.pdf)
+- [Must-read papers from awesome-deeplogic](https://github.com/ccclyu/awesome-deeplogic)
 
 <br />
 ---
