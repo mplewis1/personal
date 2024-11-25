@@ -5,6 +5,16 @@ date:   2024-07-08
 categories: blog
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33Z2LTCKEV');
+</script>
+
 One of the hottest areas of venture investment right now is <a href = "https://www.av.vc/blog/cme-why-deep-tech-is-eating-venture-capital">deep tech</a>. New and legacy firms alike are positioning themselves to have a deep tech practice and the pace of funding shows no signs of slowing down. Here are some rapid-fire facts supporting the influx:
 
 * Deep tech investing represents ~20% of venture funding, up from ~10% a decade ago (<a href="https://www.bcg.com/publications/2023/deep-tech-investing">BCG</a>)

@@ -5,6 +5,16 @@ date:   2024-06-04
 categories: blog
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33Z2LTCKEV');
+</script>
+
 Every 10 years or so, a tech-driven platform shift enables people to do more with less. Our lives abstract further away from wrought, rote routine and we enjoy productivity gains by spending our time elsewhere. It always happens gradually, and then all at once.
 
 The last cycle to fully play out was in mobile. But the smartphone as we know it today didn’t just appear out of thin air – it resulted from decades of incremental improvements. Before smartphones could exist, electrical components had to shrink, batteries had to get denser, telecom networks had to expand, bandwidth had to get cheaper, and more.

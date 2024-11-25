@@ -23,6 +23,15 @@ categories: blog
     <meta name="twitter:title" content="Meta-Risk in the Two-Party Venture System">
     <meta name="twitter:image" content="https://matthewlewis.xyz/images/Pride-Greed.png">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33Z2LTCKEV');
+</script>
 
 Nate Silver has occupied a significant part of my life these past few weeks. Leading up to the election, I checked his Silver Bulletin forecasts every night alongside Polymarket (which he’s an advisor of). As a result, I figured now was as good a time as ever to read his new book, [*On the Edge: The Art of Risking Everything*](https://www.amazon.com/Edge-Art-Risking-Everything/dp/1594204128).
 
