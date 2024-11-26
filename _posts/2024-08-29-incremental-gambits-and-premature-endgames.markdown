@@ -25,6 +25,15 @@ categories: blog
     <meta name="twitter:description" content="A case for neurosymbolism and why we've gone too far">
     <meta name="twitter:image" content="https://matthewlewis.xyz/images/Chess.png">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33Z2LTCKEV');
+</script>
 
 In chess, there are three phases to the game, all with distinct strategies: the opening, the middlegame, and the endgame. In the opening, the first 15 or so moves of the game, the goal is to deploy your pieces from their starting positions and control the center of the board. The middlegame involves back-and-forth offense and defense as players target each other's pieces via tactics and attempt to checkmate the king. The endgame begins when most pieces have been captured without a checkmate. Only a few pieces remain, and a slower, mathematical trudge begins to checkmate the king and declare victory.
 
