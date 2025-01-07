@@ -1,0 +1,114 @@
+/* Example override to use Flexbox for columns */
+.footer-col-wrapper {
+    display: flex;
+    justify-content: space-between; /* spread columns left & right */
+    align-items: center;            /* vertically center */
+    margin: 0 auto;                 /* center wrapper if desired */
+    max-width: 1000px;             /* optional: set a max-width */
+  }
+  
+  /* Remove Minima’s floats/widths so columns can flex properly */
+  .footer-col {
+    float: none !important;
+    width: auto !important;
+    margin: 0;     /* remove bottom spacing if you like */
+    padding: 0 20px; /* horizontal padding for breathing room */
+  }
+  
+  /* Right column text to the right (optional) */
+  .footer-col-2 {
+    text-align: right;
+  }
+
+  .site-footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.wrapper {
+    max-width: 1200px; /* Adjust to match your header's width */
+    margin: 0 auto;
+    padding: 0 20px; /* Adds padding for mobile responsiveness */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left {
+    text-align: left;
+}
+
+.footer-left h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-left p {
+    margin: 5px 0;
+}
+
+.footer-right {
+    text-align: right;
+}
+
+.footer-right p {
+    margin: 0;
+}
+
+.footer-right a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.footer-right a:hover {
+    text-decoration: underline;
+}
+
+/* The container for the drop-down */
+.dropdown {
+    position: relative;     /* allows absolutely positioned child (.dropdown-menu) */
+    display: inline-block;  /* so it doesn't stretch the entire width */
+  }
+  
+  /* The hidden drop-down list */
+  .dropdown .dropdown-menu {
+    display: none;          /* hidden by default */
+    position: absolute;     /* position relative to .dropdown */
+    left: 0;                /* adjust if you want it right-aligned */
+    margin-top: 8px;        /* small gap below the “Menu” link */
+    background-color: #fff; /* or match your site’s background */
+    padding: 0;
+    list-style: none;
+    border: 1px solid #ddd; /* optional border or shadow */
+    min-width: 120px;       /* sets some width for the dropdown items */
+    z-index: 1000;          /* so it’s on top of other elements */
+  }
+  
+  /* Ensure <li> items in dropdown display nicely */
+  .dropdown .dropdown-menu li {
+    margin: 0;             /* remove default list margins if any */
+  }
+  
+  /* The links in the dropdown items */
+  .dropdown .dropdown-menu li a {
+    display: block;
+    padding: 8px 12px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Hover effect for each dropdown link */
+  .dropdown .dropdown-menu li a:hover {
+    background-color: #f0f0f0;
+  }
+  
+  /* Show the menu when hovering over the parent .dropdown */
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }  

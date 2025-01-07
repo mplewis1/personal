@@ -18,18 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matthew Lewis
-email: matthewpaullewis@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  New York City. Venture Capital.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mp_lew
+title: "Matthew Lewis"
+description: "New York City. Venture Capital."
+author:
+  name: "Matthew Lewis"
+  email: "matthewpaullewis@gmail.com"
+twitter_username: "mp_lew"
 
 # Build settings
 theme: minima
+
+minima:
+  include_stylesheets:
+    - /assets/custom.css
+
 include:
   - images
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

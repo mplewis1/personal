@@ -1,0 +1,28 @@
+<footer class="site-footer h-card">
+    <div class="wrapper">
+        <div class="footer-content">
+            <!-- Left-Aligned Content -->
+            <div class="footer-left">
+                <h2 class="p-name">{{ site.author.name | escape }}</h2>
+                <p>{{ site.description | escape }}</p>
+            </div>
+            <!-- Right-Aligned Content -->
+            <div class="footer-right">
+                {% if site.author.email %}
+                    <p>
+                        <a class="u-email" href="mailto:{{ site.author.email }}">
+                            {{ site.author.email }}
+                        </a>
+                    </p>
+                {% endif %}
+                {% if site.twitter_username %}
+                    <p>
+                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                            @{{ site.twitter_username }}
+                        </a>
+                    </p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</footer>
