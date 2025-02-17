@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Letter to the Banter Founders"
-date:   2025-02-12
+date:   2025-02-17
 categories: blog
 ---
 
