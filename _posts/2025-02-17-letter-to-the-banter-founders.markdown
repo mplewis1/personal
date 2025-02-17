@@ -68,7 +68,7 @@ I’ve found all that and more at Banter.
 
 I’m ecstatic to join Heston, Georgia, and Ryan in discovering the “the weird and the wonderful,” and working with you all every day. Whether you need help with introductions, fundraising, financial modeling (thanks banking stint), strategic questions, or anything else, please don’t hesitate to reach out.
 
-You can email me at matthew@bantercap.com, or feel free to shoot me a text or give me a ring anytime at 908-635-4009. If you’re in New York, let’s grab lunch when you have some time.
+You can email me at matthew@bantercap.com. If you’re in New York, let’s grab lunch when you have some time.
 
 Here’s to many years of working together. And here’s to continuing the Banter.
 
