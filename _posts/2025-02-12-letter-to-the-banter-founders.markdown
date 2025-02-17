@@ -12,7 +12,7 @@ categories: blog
     
     <!-- Open Graph meta tags -->
     <meta property="og:title" content="Letter to the Banter Founders">
-    <meta property="og:image" content="https://matthewlewis.xyz/images/banter.png">
+    <meta property="og:image" content="https://matthewlewis.xyz/images/banter-banner.png">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Matthew Lewis">
     
@@ -20,7 +20,7 @@ categories: blog
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@mp_lew">
     <meta name="twitter:title" content="Letter to the Banter Founders">
-    <meta name="twitter:image" content="https://matthewlewis.xyz/images/banter.png">
+    <meta name="twitter:image" content="https://matthewlewis.xyz/images/banter-banner.png">
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
