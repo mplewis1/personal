@@ -21,6 +21,12 @@ categories: blog
     <meta name="twitter:site" content="@mp_lew">
     <meta name="twitter:title" content="Inverting the Human-to-Machine Interaction Contract">
     <meta name="twitter:image" content="https://matthewlewis.xyz/images/rehearsal.png">
+
+    <!-- LinkedIn Card tags -->
+    <meta name="linkedin:card" content="summary_large_image">
+    <meta name="linkedin:site" content="@mp_lew">
+    <meta name="linkedin:title" content="Inverting the Human-to-Machine Interaction Contract">
+    <meta name="linkedin:image" content="https://matthewlewis.xyz/images/rehearsal.png">
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
