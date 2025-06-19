@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Complex Social Systems and Inverting the Human-to-Machine Interaction Contract"
+title:  "Inverting the Human-to-Machine Interaction Contract"
 date:   2025-06-19
 categories: blog
 ---
