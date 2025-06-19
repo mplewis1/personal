@@ -38,7 +38,7 @@ Inventions replaced physical labor, then enabled abstraction from hands to the m
 
 The compression from half-century to sub-decade technological cycles will surely impact our social and professional lives. Gian Segato [wrote](https://archive.ph/5LeFU#selection-405.0-408.0) for Pirate Wires, arguing that agency will be the long-term differentiator in an AI-dominated regime. WALL-E-esque hedonism would be the most depressing mass-extinction event for humans, and so preserving our agency to use these new tools for our benefit is of utmost importance. This philosophical tension is explicit to the human condition… for now.
 
-![Wall-E](/images/walle.png)
+![Wall-E](/images/walle.jpg)
 
 We must consider what happens when scaling laws enable machines to possess their own agency. What happens when there is an inversion of the human-to-machine interaction contract? Today, humans prompt machines to do something for us. We’ll soon reach a point where machines prompt humans to do something for it, or more optimistically, to do something for ourselves to better ourselves. When you crack open the hood, there are several [inputs](https://matthewlewis.xyz/blog/2024/06/04/the-next-first-leg.html) and complexities still required to make that a reality.
 
