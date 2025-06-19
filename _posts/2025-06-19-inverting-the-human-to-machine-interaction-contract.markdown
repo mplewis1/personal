@@ -11,7 +11,7 @@ categories: blog
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Open Graph meta tags -->
-    <meta property="og:title" content="Letter to the Banter Founders">
+    <meta property="og:title" content="Inverting the Human-to-Machine Interaction Contract">
     <meta property="og:image" content="https://matthewlewis.xyz/images/rehearsal.png">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Matthew Lewis">
@@ -19,7 +19,7 @@ categories: blog
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@mp_lew">
-    <meta name="twitter:title" content="Letter to the Banter Founders">
+    <meta name="twitter:title" content="Inverting the Human-to-Machine Interaction Contract">
     <meta name="twitter:image" content="https://matthewlewis.xyz/images/rehearsal.png">
 </head>
 <!-- Google tag (gtag.js) -->
