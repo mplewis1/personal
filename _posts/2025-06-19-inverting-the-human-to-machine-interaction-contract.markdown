@@ -15,13 +15,7 @@ categories: blog
     <meta property="og:image" content="https://matthewlewis.xyz/images/rehearsal.png">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Matthew Lewis">
-    
-    <!-- Twitter Card tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@mp_lew">
-    <meta name="twitter:title" content="Inverting the Human-to-Machine Interaction Contract">
-    <meta name="twitter:image" content="https://matthewlewis.xyz/images/rehearsal.png">
-    
+
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z2LTCKEV"></script>
