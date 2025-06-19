@@ -20,7 +20,7 @@ categories: blog
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@mp_lew">
     <meta name="twitter:title" content="Inverting the Human-to-Machine Interaction Contract">
-    <meta name="twitter:image" content="https://matthewlewis.xyz/images/rehearsal.png">ßßßßßßß
+    <meta name="twitter:image" content="https://matthewlewis.xyz/images/rehearsal.png">
     
 </head>
 <!-- Google tag (gtag.js) -->
