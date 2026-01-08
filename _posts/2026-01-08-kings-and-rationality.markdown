@@ -70,5 +70,3 @@ Once there are glimpses of legibility, our job shifts to becoming shepherds and 
 So then, should we care about kingmaking?
 
 We can, but we shouldn't. Missing out on a 9-figure Seed round for an RL company is fine – as it's not the product emerging funds set out to deliver. **The venture agglomerators are playing a different game, as are distressed private equity funds, as are event-driven hedge funds, as are core-plus real estate funds. They’re all great products, but they're different products for a reason.**
-
-test 1
